@@ -17,6 +17,11 @@ I'm Gates and I am a 🏥 medical school graduate who decided to switch career p
 | 10  | minishell                                                        | 🔒     |   | 21  | CPP Module 08 | 🔒     |   |     |                                |        |
 | 11  | Philosophers                                                     | 🔒     |   | 22  | miniRT        | 🔒     |   | 31  | netwhat                        |  ✅   |
 
+## Projects
+| No  | Project                                           | Status  |
+| :-: | :------------------------------------------------ | :-----: |
+| 1   | [Global Ecological Hackathon](../../../plankthon) |    ✅  |
+
 ## 📱 Socials
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Gates.Tan.96/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gates-tan/)
