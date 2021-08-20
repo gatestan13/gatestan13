@@ -21,6 +21,7 @@ I'm Gates and I am a 🏥 medical school graduate who decided to switch career p
 | No  | Project                                           | Status  |
 | :-: | :------------------------------------------------ | :-----: |
 | 1   | [Global Ecological Hackathon](../../../plankthon) |    ✅  |
+| 2   | [Login Web App](../../../sunway-mall-assessment)  |    ✅  |
 
 ## 📱 Socials
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Gates.Tan.96/)
